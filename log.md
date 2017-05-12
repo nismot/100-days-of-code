@@ -25,3 +25,8 @@
 
 **Thoughts** A lot of this is review for me. Although its not always a bad thing to go back review some of the things that you may have forgotten about.
 
+### Day 1: May 11, Tuesday
+
+**Today's Progress**: Still working througth the HTML portion of the Front End Development Certification. About 1/2 through it.
+
+**Thoughts** Still a lot of it is review. Struggling with staying focused on some of the things that I already know. Really wanting to get to the Responsive Design with Bootstrap. Haven't touch responsive design in a long time. Will continue to push through the HTML pieces.
