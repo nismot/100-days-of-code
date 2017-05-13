@@ -30,3 +30,9 @@
 **Today's Progress**: Still working througth the HTML portion of the Front End Development Certification. About 1/2 through it.
 
 **Thoughts** Still a lot of it is review. Struggling with staying focused on some of the things that I already know. Really wanting to get to the Responsive Design with Bootstrap. Haven't touch responsive design in a long time. Will continue to push through the HTML pieces.
+
+### Day 2: May 12, Tuesday
+
+**Today's Progress**: Working on the Basic JavaScript course. About half way through the HTML course.
+
+**Thoughts** Going to be switching between the HTML and JavaScript tutorials. HTML is more of review for me. JavaScripts is still something I never really picked up and should be more beneficial to do both.
