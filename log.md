@@ -25,14 +25,20 @@
 
 **Thoughts** A lot of this is review for me. Although its not always a bad thing to go back review some of the things that you may have forgotten about.
 
-### Day 1: May 11, Tuesday
+### Day 1: May 11, Thursday
 
 **Today's Progress**: Still working througth the HTML portion of the Front End Development Certification. About 1/2 through it.
 
 **Thoughts** Still a lot of it is review. Struggling with staying focused on some of the things that I already know. Really wanting to get to the Responsive Design with Bootstrap. Haven't touch responsive design in a long time. Will continue to push through the HTML pieces.
 
-### Day 2: May 12, Tuesday
+### Day 2: May 12, Friday
 
 **Today's Progress**: Working on the Basic JavaScript course. About half way through the HTML course.
 
 **Thoughts** Going to be switching between the HTML and JavaScript tutorials. HTML is more of review for me. JavaScripts is still something I never really picked up and should be more beneficial to do both.
+
+### Day 3: May 15, Monday
+
+**Today's Progress**: Still working on JavaScript.Also working on this weeks RubyMotion Blog
+
+**Thoughts** Think I going to enjoy learning JavaScript. Put it off for long enough.
