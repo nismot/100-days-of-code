@@ -42,3 +42,7 @@
 **Today's Progress**: Still working on JavaScript.Also working on this weeks RubyMotion Blog
 
 **Thoughts** Think I going to enjoy learning JavaScript. Put it off for long enough.
+
+### Day 4: May 15, Tuesday ###
+
+** Thoughts ** Did I mention I was doing JavaScript...
