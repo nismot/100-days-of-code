@@ -45,4 +45,12 @@
 
 ### Day 4: May 15, Tuesday ###
 
-** Thoughts ** Did I mention I was doing JavaScript...
+**Today's Progress**: Working through hour 3 of 'Sams Teach Yourself JavaScript in 24 Hours'
+
+**Thoughts** Did I mention I was doing JavaScript...
+
+### Day 5: May 19, Friday ###
+
+**Today's Progress**: Working Through hour 4 of 'Sams Teach Yourself JavaScript in 24 Hours'
+
+**Thoughts** Starting to notice that JavaScript kind of has a C++ feel to it. This is really nice because I started learning programming with C++ which I like a lot.
