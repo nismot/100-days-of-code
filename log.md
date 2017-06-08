@@ -65,3 +65,9 @@
                 a) Ask the user to select either to enter new customer information or exit the program
                 b) If the user selects enter new record, the program asks the user to enter the following information: first name, last name, social security number, and date of birth.
                 c) You should use append method so that every time you run the program the old records won’t be removed.
+
+### Day 7: June 7, Wednesday ###
+
+**Today's Progress**: Back to working on Ruby. Working through "The Ruby Way" third edition. Internationalization chapter. Redoing old CS homework in Ruby.
+
+**Thoughts** Need to really brush up on the text book terminology and concepts. This is needed for interviewing for Ruby jobs. 
