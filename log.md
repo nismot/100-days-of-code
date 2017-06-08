@@ -60,8 +60,8 @@
 **Today's Progress**: Dug out some old CS homework to use as Ruby exercises.
 
 **Thoughts** HW1: Merging numbers from 2 files then sort them ascending order using either selection sort, bubble sort, or insertion sort.
-             HW2: Write a program that counts the number of characters, including spaces and new line characters, number of words, and number of lines in one file.
-             HW3: Write a program that asks the user to enter customer information and saves the records into a file. Requirement,
+             HW1.1: Write a program that counts the number of characters, including spaces and new line characters, number of words, and number of lines in one file.
+             HW1.2: Write a program that asks the user to enter customer information and saves the records into a file. Requirement,
                 a) Ask the user to select either to enter new customer information or exit the program
                 b) If the user selects enter new record, the program asks the user to enter the following information: first name, last name, social security number, and date of birth.
                 c) You should use append method so that every time you run the program the old records won’t be removed.
