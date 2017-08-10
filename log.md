@@ -71,3 +71,14 @@
 **Today's Progress**: Back to working on Ruby. Working through "The Ruby Way" third edition. Internationalization chapter. Redoing old CS homework in Ruby.
 
 **Thoughts** Need to really brush up on the text book terminology and concepts. This is needed for interviewing for Ruby jobs. 
+
+
+
+-Starting over as much time has past since the last commit-
+
+
+Day 0: August 9, Wednesday
+
+Today's Progress: Starting with the basics. HTML and CSS on freecodecamp.org
+
+**Thoughts** Its rough restarting with stuff that you learned a long time ago, but it is ofter needed. We spend a lot of time copy and pasting all over the place and tend to lose what is actually needing to be done. So I am starting from the very beginning...again.
